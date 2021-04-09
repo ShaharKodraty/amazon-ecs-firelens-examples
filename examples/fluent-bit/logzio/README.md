@@ -3,8 +3,8 @@ For documentation on sending your FireLens log data to [Logz.io](https://logz.io
 For documentation for Fluent Bit with Logz.io plugin, please refer to [Fluent Bit with Logz.io plugin](https://docs.logz.io/shipping/log-sources/fluent-bit.html).
 
 Task definition will include a log configuration as provided here in this README.
-    <<LISTENER-HOST>>: You can find your listener in our [Regions Page](https://docs.logz.io/user-guide/accounts/account-region.html).
-    <<LOG-SHIPPING-TOKEN>>: You'll need to specify your Logz.io's shipping token provided in your account settings page.
+    `LISTENER-HOST`: You can find your listener in our [Regions Page](https://docs.logz.io/user-guide/accounts/account-region.html).
+    `LOG-SHIPPING-TOKEN`: You'll need to specify your Logz.io's shipping token provided in your account settings page.
 
 ```
 "logConfiguration": {
